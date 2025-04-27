@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Temporal (Borrar)\\NorthWind\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30CC0B34-2F66-4BA2-A2A8-93906146D2CF}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|d:\\temporal (borrar)\\northwind\\northwind.sales.backend.usecases\\createorder\\createorderinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CC0B34-2F66-4BA2-A2A8-93906146D2CF}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|solutionrelative:northwind.sales.backend.usecases\\createorder\\createorderinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CC0B34-2F66-4BA2-A2A8-93906146D2CF}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|d:\\temporal (borrar)\\northwind\\northwind.sales.backend.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CC0B34-2F66-4BA2-A2A8-93906146D2CF}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|solutionrelative:northwind.sales.backend.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderInteractor.cs",
+              "DocumentMoniker": "D:\\Temporal (Borrar)\\NorthWind\\NorthWind.Sales.Backend.UseCases\\CreateOrder\\CreateOrderInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.UseCases\\CreateOrder\\CreateOrderInteractor.cs",
+              "ToolTip": "D:\\Temporal (Borrar)\\NorthWind\\NorthWind.Sales.Backend.UseCases\\CreateOrder\\CreateOrderInteractor.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.UseCases\\CreateOrder\\CreateOrderInteractor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:19:45.908Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "D:\\Temporal (Borrar)\\NorthWind\\NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "ToolTip": "D:\\Temporal (Borrar)\\NorthWind\\NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:11:33.454Z",
+              "EditorCaption": ""
             }
           ]
         }
