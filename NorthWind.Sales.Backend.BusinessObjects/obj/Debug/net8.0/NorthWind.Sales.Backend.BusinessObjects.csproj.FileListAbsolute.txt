@@ -1,0 +1,16 @@
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.deps.json
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.csproj.AssemblyReference.cache
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfoInputs.cache
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfo.cs
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.sourcelink.json
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWin.430E2971.Up2Date
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.BusinessObjects.dll
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.BusinessObjects.dll
