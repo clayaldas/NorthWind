@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {}
+    "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+    "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
         "projectName": "NorthWind.Sales.Backend.BusinessObjects",
-        "projectPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\obj\\",
+        "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
-                "projectPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj"
+              "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
+                "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj"
               }
             }
           }
@@ -74,21 +74,20 @@
         }
       }
     },
-    "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {
+    "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
+        "projectUniqueName": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
         "projectName": "NorthWind.Sales.Backend.DataContexts.EFCore",
-        "projectPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
-        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\obj\\",
+        "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContexts.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,14 +96,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
-                "projectPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
+              "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
+                "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
               }
             }
           }
@@ -160,21 +160,20 @@
         }
       }
     },
-    "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
+    "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
+        "projectUniqueName": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
         "projectName": "NorthWind.Sales.Backend.Repositories",
-        "projectPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
-        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.Repositories\\obj\\",
+        "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -183,14 +182,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-                "projectPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
               }
             }
           }
@@ -240,21 +240,20 @@
         }
       }
     },
-    "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
+    "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
+        "projectUniqueName": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
         "projectName": "NorthWind.Sales.Entities",
-        "projectPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
-        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\TI Capacitacion 2024\\NorthWind\\NorthWind.Sales.Entities\\obj\\",
+        "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
+        "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -263,6 +262,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

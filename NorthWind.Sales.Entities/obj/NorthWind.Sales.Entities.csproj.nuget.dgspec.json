@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\TI-Capacitacion-2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {}
+    "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\TI-Capacitacion-2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
+    "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\TI-Capacitacion-2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
+        "projectUniqueName": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
         "projectName": "NorthWind.Sales.Entities",
-        "projectPath": "D:\\Repositorios\\TI-Capacitacion-2024\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
-        "packagesPath": "C:\\Users\\DOCENTE\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\TI-Capacitacion-2024\\NorthWind\\NorthWind.Sales.Entities\\obj\\",
+        "projectPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
+        "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DOCENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

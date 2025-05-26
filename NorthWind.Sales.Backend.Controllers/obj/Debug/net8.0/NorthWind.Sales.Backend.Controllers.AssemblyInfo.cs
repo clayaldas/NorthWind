@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.Sales.Backend.Controllers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d62758966786328c73c24672cdc2fe6c46b1bafc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf241070c9e5dd4c55d8890d362f63dead3c013")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.Sales.Backend.Controllers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.Sales.Backend.Controllers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

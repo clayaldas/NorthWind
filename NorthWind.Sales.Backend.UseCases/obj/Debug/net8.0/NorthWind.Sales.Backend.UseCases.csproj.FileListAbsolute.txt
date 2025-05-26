@@ -16,3 +16,21 @@ D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.UseCases\
 D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.UseCases.dll
 D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
 D:\Repositorios\TI Capacitacion 2024\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.UseCases.dll
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.deps.json
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.dll
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.csproj.AssemblyReference.cache
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.AssemblyInfoInputs.cache
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.AssemblyInfo.cs
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.csproj.CoreCompileInputs.cache
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.sourcelink.json
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWin.6E892F3A.Up2Date
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.dll
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.UseCases.dll
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
+C:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.UseCases.dll
