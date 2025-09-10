@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A197926B-5738-4D37-8CD3-35D45B8783F2}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A197926B-5738-4D37-8CD3-35D45B8783F2}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A197926B-5738-4D37-8CD3-35D45B8783F2}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A197926B-5738-4D37-8CD3-35D45B8783F2}|NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511508C9-5170-400D-B522-2905F547DDF7}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511508C9-5170-400D-B522-2905F547DDF7}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateOrderDetailDto.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
-              "RelativeToolTip": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:19:06.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateOrderDto.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "RelativeToolTip": "NorthWind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "ShippingType.cs",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:15:57.091Z",
+              "WhenOpened": "2025-09-10T17:58:42.608Z",
               "EditorCaption": ""
             }
           ]

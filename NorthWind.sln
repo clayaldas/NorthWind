@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Frameworks And Drivers", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Sales.Entities", "NorthWind.Sales.Entities\NorthWind.Sales.Entities.csproj", "{A197926B-5738-4D37-8CD3-35D45B8783F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Sales.Backend.BusinessObjects", "NorthWind.Sales.Backend.BusinessObjects\NorthWind.Sales.Backend.BusinessObjects.csproj", "{511508C9-5170-400D-B522-2905F547DDF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{A197926B-5738-4D37-8CD3-35D45B8783F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A197926B-5738-4D37-8CD3-35D45B8783F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A197926B-5738-4D37-8CD3-35D45B8783F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511508C9-5170-400D-B522-2905F547DDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511508C9-5170-400D-B522-2905F547DDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511508C9-5170-400D-B522-2905F547DDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511508C9-5170-400D-B522-2905F547DDF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A197926B-5738-4D37-8CD3-35D45B8783F2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{511508C9-5170-400D-B522-2905F547DDF7} = {D7FF02BF-8294-4FB5-AD54-C3C9F01AABF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB4BD0F3-2817-4E22-96A6-45CF1E892214}
