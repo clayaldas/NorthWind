@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oOOCWR3K9d8=",
+  "dgSpecHash": "E2Ubq5gHqEM=",
   "success": true,
   "projectFilePath": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Docente\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
