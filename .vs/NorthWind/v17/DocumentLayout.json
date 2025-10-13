@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E32EA163-4523-45C5-ADB3-6D83C771BC50}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.usecases\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32EA163-4523-45C5-ADB3-6D83C771BC50}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|solutionrelative:northwind.sales.backend.usecases\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.presenters\\createorder\\createorderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|solutionrelative:northwind.sales.backend.presenters\\createorder\\createorderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E32EA163-4523-45C5-ADB3-6D83C771BC50}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32EA163-4523-45C5-ADB3-6D83C771BC50}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|solutionrelative:northwind.sales.backend.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.presenters\\northwind.sales.backend.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|solutionrelative:northwind.sales.backend.presenters\\northwind.sales.backend.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Title": "CreateOrderPresenter.cs",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:43:46.569Z",
+              "WhenOpened": "2025-10-13T14:51:08.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DependencyContainer.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.UseCases\\DependencyContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:43:08.503Z",
-              "EditorCaption": ""
+              "Title": "NorthWind.Sales.Backend.Presenters.csproj",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+              "RelativeToolTip": "NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-13T14:48:50.781Z"
             }
           ]
         }
