@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.presenters\\createorder\\createorderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|solutionrelative:northwind.sales.backend.presenters\\createorder\\createorderpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.presenters\\northwind.sales.backend.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|solutionrelative:northwind.sales.backend.presenters\\northwind.sales.backend.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E}|NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.controllers\\northwind.sales.backend.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E}|NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj|solutionrelative:northwind.sales.backend.controllers\\northwind.sales.backend.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateOrderPresenter.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.Presenters\\CreateOrder\\CreateOrderPresenter.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:51:08.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NorthWind.Sales.Backend.Presenters.csproj",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
-              "RelativeToolTip": "NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+              "Title": "NorthWind.Sales.Backend.Controllers",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
+              "RelativeToolTip": "NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-13T14:48:50.781Z"
+              "WhenOpened": "2025-10-22T16:07:39.91Z",
+              "EditorCaption": ""
             }
           ]
         }

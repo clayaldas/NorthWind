@@ -27,6 +27,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presenters", "Presenters", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Sales.Backend.Presenters", "NorthWind.Sales.Backend.Presenters\NorthWind.Sales.Backend.Presenters.csproj", "{972AE3FB-000A-41B4-B174-2D5C9B60BC87}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{B95E4A56-A303-43BF-843A-54E9CF08DB5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Sales.Backend.Controllers", "NorthWind.Sales.Backend.Controllers\NorthWind.Sales.Backend.Controllers.csproj", "{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,10 @@ Global
 		{972AE3FB-000A-41B4-B174-2D5C9B60BC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{972AE3FB-000A-41B4-B174-2D5C9B60BC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{972AE3FB-000A-41B4-B174-2D5C9B60BC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +74,8 @@ Global
 		{790CC645-9201-4574-AD4E-BEF9C5ED8826} = {2A13FE12-C8BE-4DBA-84BE-99AF0433FE01}
 		{EAB0B0AB-1373-4F3D-87DB-285CF8B3AE90} = {A4C58732-C7C8-4C06-9595-86C13E04B11A}
 		{972AE3FB-000A-41B4-B174-2D5C9B60BC87} = {EAB0B0AB-1373-4F3D-87DB-285CF8B3AE90}
+		{B95E4A56-A303-43BF-843A-54E9CF08DB5E} = {A4C58732-C7C8-4C06-9595-86C13E04B11A}
+		{7D7F0C6C-CBAC-459B-BDB8-5E97542E1C1E} = {B95E4A56-A303-43BF-843A-54E9CF08DB5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB4BD0F3-2817-4E22-96A6-45CF1E892214}
