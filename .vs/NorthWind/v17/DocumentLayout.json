@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.presenters\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|solutionrelative:northwind.sales.backend.presenters\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD76777-7471-48A8-86E6-1ED7046A4B18}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.datacontext.efcore\\configurations\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD76777-7471-48A8-86E6-1ED7046A4B18}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\configurations\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.presenters\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972AE3FB-000A-41B4-B174-2D5C9B60BC87}|NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj|solutionrelative:northwind.sales.backend.presenters\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511508C9-5170-400D-B522-2905F547DDF7}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\pocoentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511508C9-5170-400D-B522-2905F547DDF7}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\pocoentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E32EA163-4523-45C5-ADB3-6D83C771BC50}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.usecases\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E32EA163-4523-45C5-ADB3-6D83C771BC50}|NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj|solutionrelative:northwind.sales.backend.usecases\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD76777-7471-48A8-86E6-1ED7046A4B18}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.datacontext.efcore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD76777-7471-48A8-86E6-1ED7046A4B18}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511508C9-5170-400D-B522-2905F547DDF7}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511508C9-5170-400D-B522-2905F547DDF7}|NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD76777-7471-48A8-86E6-1ED7046A4B18}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.datacontext.efcore\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD76777-7471-48A8-86E6-1ED7046A4B18}|NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:northwind.sales.backend.datacontext.efcore\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DependencyContainer.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\DependencyContainer.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Presenters\\DependencyContainer.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\DependencyContainer.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.Presenters\\DependencyContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "OrderDetailConfiguration.cs",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailConfiguration.cs",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailConfiguration.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:29:37.098Z",
+              "WhenOpened": "2025-11-05T18:00:50.876Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Presenters\\GlobalUsing.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Presenters\\GlobalUsing.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.Presenters\\GlobalUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:29:33.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.UseCases\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\GlobalUsings.cs",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\GlobalUsings.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:29:23.644Z"
+              "WhenOpened": "2025-11-05T17:59:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\POCOEntities\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:50:16.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "NorthWind.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:29:12.635Z"
+              "WhenOpened": "2025-11-05T17:47:23.723Z",
+              "EditorCaption": ""
             }
           ]
         }
