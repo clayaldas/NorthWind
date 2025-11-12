@@ -6,9 +6,12 @@ using NorthWind.Sales.Backend.Repositories.Entities;
 // Crear la tabla: OrderDetails
 internal class OrderDetailConfiguration : IEntityTypeConfiguration<Repositories.Entities.OrderDetail>
 {
-    public void Configure(EntityTypeBuilder<OrderDetail> builder)
+    public void Configure(EntityTypeBuilder<Repositories.Entities.OrderDetail> builder)
     {
         // Crear los campos de la tabla
-        //builder.Property();
+        builder.HasKey( d => new {d.OrderId, d.ProductId});
+        builder.Property(d => d.UnitPrice).HasPrecision(8, 2);
+        //builder.Property(d => d.Quantity)
     }
 }
+
