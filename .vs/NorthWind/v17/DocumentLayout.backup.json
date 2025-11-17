@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D4116D2-151F-430C-A46B-3897BD4FE8B3}|NorthWind.Sales.Backend.Ioc\\NorthWind.Sales.Backend.Ioc.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.ioc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4116D2-151F-430C-A46B-3897BD4FE8B3}|NorthWind.Sales.Backend.Ioc\\NorthWind.Sales.Backend.Ioc.csproj|solutionrelative:northwind.sales.backend.ioc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1529F32-518A-4CCA-84C8-51C71B12155B}|NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1529F32-518A-4CCA-84C8-51C71B12155B}|NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj|solutionrelative:northwind.sales.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Ioc\\Class1.cs",
-              "RelativeDocumentMoniker": "NorthWind.Sales.Backend.Ioc\\Class1.cs",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.Backend.Ioc\\Class1.cs",
-              "RelativeToolTip": "NorthWind.Sales.Backend.Ioc\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T18:01:51.966Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T15:06:00.885Z",
               "EditorCaption": ""
             }
           ]
