@@ -57,7 +57,7 @@ internal static class Startup
 
         // Agregar el Middleware CORS
         app.UseCors();
-
+        
         return app;
     }
 }

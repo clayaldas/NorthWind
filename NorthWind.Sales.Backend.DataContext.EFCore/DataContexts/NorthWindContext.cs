@@ -7,7 +7,7 @@ internal class NorthWindContext: DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         //optionsBuilder.UseSqlServer("Server=pc07; DataBase=NorthWindDB; User=sa; Password=sa;");
-        optionsBuilder.UseSqlServer("Server=DESKTOP-3L362SI; DataBase=NorthWindDB;Integrated Security=True;TrustServerCertificate=True;");
+        optionsBuilder.UseSqlServer("Server=DESKTOP-3L362SI;DataBase=NorthWindDB;Integrated Security=True;TrustServerCertificate=True;");
         //base.OnConfiguring(optionsBuilder);
     }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.Sales.Backend.DataContext.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+157f7c2c44166c81ab6fe934d01eb0a6a5644596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0774b82c94c3aaf41c739354874aa71bd969753")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.Sales.Backend.DataContext.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.Sales.Backend.DataContext.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

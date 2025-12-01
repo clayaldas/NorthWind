@@ -1,0 +1,18 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid"></div>
+    @NavBarBrand
+    <button title="Navigation menu" class="navbar_toggle" 
+        @onclick="ToggleNavMenu">
+        <span class="navbar-toogle-icon"></span>
+    ></button>
+</div>
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        @NavBarItems
+    </nav>
+</div>
+
+@code {
+
+}

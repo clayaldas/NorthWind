@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1529F32-518A-4CCA-84C8-51C71B12155B}|NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.sales.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B1529F32-518A-4CCA-84C8-51C71B12155B}|NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj|solutionrelative:northwind.sales.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.razorcomponents\\layouts\\navmenulayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|solutionrelative:northwind.razorcomponents\\layouts\\navmenulayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.razorcomponents\\layouts\\navmenulayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|solutionrelative:northwind.razorcomponents\\layouts\\navmenulayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.razorcomponents\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|solutionrelative:northwind.razorcomponents\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.razorcomponents\\navbars\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|solutionrelative:northwind.razorcomponents\\navbars\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|e:\\tecnologias y desarrollo web\\northwind\\northwind.razorcomponents\\navbars\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC17D88-630C-45F7-9902-A93B6A994CA0}|NorthWind.RazorComponents\\NorthWind.RazorComponents.csproj|solutionrelative:northwind.razorcomponents\\navbars\\navmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "NorthWind.Sales.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T15:06:00.885Z",
+              "Title": "NavMenuLayout.razor.css",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor.css",
+              "RelativeDocumentMoniker": "NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor.css",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor.css",
+              "RelativeToolTip": "NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-01T14:45:35.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\_Imports.razor",
+              "RelativeDocumentMoniker": "NorthWind.RazorComponents\\_Imports.razor",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\_Imports.razor",
+              "RelativeToolTip": "NorthWind.RazorComponents\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:40:59.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor.cs",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\NavBars\\NavMenu.razor.cs",
+              "RelativeDocumentMoniker": "NorthWind.RazorComponents\\NavBars\\NavMenu.razor.cs",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\NavBars\\NavMenu.razor.cs",
+              "RelativeToolTip": "NorthWind.RazorComponents\\NavBars\\NavMenu.razor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:27:52.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\NavBars\\NavMenu.razor",
+              "RelativeDocumentMoniker": "NorthWind.RazorComponents\\NavBars\\NavMenu.razor",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\NavBars\\NavMenu.razor",
+              "RelativeToolTip": "NorthWind.RazorComponents\\NavBars\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:27:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenuLayout.razor",
+              "DocumentMoniker": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor",
+              "RelativeDocumentMoniker": "NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor",
+              "ToolTip": "E:\\Tecnologias y Desarrollo Web\\NorthWind\\NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor",
+              "RelativeToolTip": "NorthWind.RazorComponents\\Layouts\\NavMenuLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:23:55.331Z",
               "EditorCaption": ""
             }
           ]

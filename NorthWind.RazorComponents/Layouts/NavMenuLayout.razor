@@ -1,0 +1,36 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu>
+            <NavBarBrand>
+                <SectionOutlet SectionId="NavBarBrandSection"/>
+            </NavBarBrand>
+
+            <NavBarItems>
+                <SectionOutlet SectionId="NavBarItemsSection"/>
+            </NavBarItems>
+        </NavMenu>
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <SectionOutlet SectionId="HeaderSection"/>
+        </div>
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+@code {
+    public static object NavBarBrandSection = new();
+    public static object NavBarItemsSection = new();
+    public static object HeaderSection = new();
+}
+
+@* El componente permite mostrar: 
+    una sección para establecer el encabezado de la barra de navegación (NavBarBrandSection),
+    otra sección para establecer los elementos de navegación  (NavBarItemsSection) y
+    otra sección para establecer un encabezado de la página (HeaderSection).
+*@
